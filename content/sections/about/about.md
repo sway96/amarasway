@@ -1,14 +1,29 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/amara.jpg"
+imageAlt: "Amara Photo"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Amara is a Product Manager with 4+ years experience partnering with engineering teams to build solutions that meet customer needs and optimise product growth. Passionate about leading people and empowering others to execute, she is highly collaborative and prides herself on effective communication. Amara is a strategic leader and problem solver who thrives in finding solutions to complex customer issues that drive business impact.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+CORE COMPETENCIES
+✓ Product Strategy
+✓ Process Optimisation
+✓ Project Management
+✓ Stakeholder Management
+✓ Users Research
+✓ Sprint Planning
+✓ Release Management
+✓ Business Requirements
+✓ KPIs & OKRs
+✓ Agile & Scrum
+✓ GTM & User Acquisition
+✓ Market Research
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+TECHNICAL SKILLS: 
+✓ MySQL
+✓ HTML, CSS & Javascript
+✓ Firebase & Google Analytics
+✓ Amplitude
+✓ Jira, Confluence
+✓ Miro, Figma
+✓ Facebook Ads Manager
